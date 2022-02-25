@@ -54,4 +54,4 @@ FOR /F %%# IN ('IXIO.exe /CREATE "TEST" "USERNAME" "PASSWORD"') DO SET "ID=%%#"
 ECHO %ID%
 ```
 
-![image](https://cdn.discordapp.com/attachments/630843149778157623/946810163854188625/maximum-tension.png)
+![image](https://cdn.discordapp.com/attachments/630843149778157623/946811415677788251/maximum-tension.png)
