@@ -15,7 +15,7 @@ int checkIfFileExists(const char *filename); // defines the function at the bott
 
 char* RELPACE(const char* s,const char* oldW,const char* newW){
 // Replaces words from the strings
-// Useage as:
+// Usage as:
 // char NEW_VAR=RELPACE(OLDVAR,"OLD WORD","NEW WORD");
 char* result;
 int i,cnt=0;
